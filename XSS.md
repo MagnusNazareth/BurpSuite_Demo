@@ -15,14 +15,14 @@
 
 
 <br>
-<h2>Reflected XSS</h2>https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded
+<h2>Reflected XSS</h2>
 
 <br>
 <p><b>Description:</b> Cross-site scripting (XSS) is an injection attack where a malicious actor injects code into a trusted website. Attackers use web apps to send malicious scripts to different end-users, usually from the browser side. Vulnerabilities that enable XSS attacks are common. They occur wherever web applications use unvalidated or unencoded user-supplied inputs.</p>
 
 
-- Visit BurpSuite Lab on: <br>
-  https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded
+- Visit BurpSuite on: <br>
+  [https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded](https://0acb005f04a9dacf84e95cb3008e003f.web-security-academy.net/)
 
 
 - Create an account to access the contents
