@@ -1,4 +1,5 @@
-**Go to: [https://portswigger.net/web-security/os-command-injection/lab-simple](https://0a0b008703287fd1803bea2d001e0019.web-security-academy.net/)**
+**Go to:[https://0a0b008703287fd1803bea2d001e0019.web-security-academy.net/](https://0a0b008703287fd1803bea2d001e0019.web-security-academy.net/)**
+
 
 <br>
 
